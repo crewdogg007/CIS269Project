@@ -115,3 +115,18 @@ D:\CHONG_U\SPSCC\CIS269\Week 6\Pacman\Pacman\obj\x86\Debug\Pacman.exe.manifest
 D:\CHONG_U\SPSCC\CIS269\Week 6\Pacman\Pacman\obj\x86\Debug\Pacman.application
 D:\CHONG_U\SPSCC\CIS269\Week 6\Pacman\Pacman\obj\x86\Debug\Pacman.exe
 D:\CHONG_U\SPSCC\CIS269\Week 6\Pacman\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\HomeServer\Desktop\Pacman\Pacman\bin\Debug\Pacman.exe.manifest
+C:\Users\HomeServer\Desktop\Pacman\Pacman\bin\Debug\Pacman.application
+C:\Users\HomeServer\Desktop\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\HomeServer\Desktop\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\HomeServer\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.Help.resources
+C:\Users\HomeServer\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.Main.resources
+C:\Users\HomeServer\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.Properties.Resources.resources
+C:\Users\HomeServer\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.Splash.resources
+C:\Users\HomeServer\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\HomeServer\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\HomeServer\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.exe.manifest
+C:\Users\HomeServer\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.application
+C:\Users\HomeServer\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.exe
+C:\Users\HomeServer\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\HomeServer\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.csprojAssemblyReference.cache
